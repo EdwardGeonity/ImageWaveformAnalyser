@@ -71,8 +71,8 @@ You can package this app as .exe (Windows) or .app (macOS) using:
 
 📸 Screenshots
 
-![Screen Shot 1](https://github.com/user-attachments/assets/533070f2-dc67-48ac-ae29-bf2a367867cd)
-![Screen Shot 2](https://github.com/user-attachments/assets/e59e6898-cc12-49c6-a435-65c08e656269)
+![Screen Shot 2](https://github.com/user-attachments/assets/af884798-69e8-45cb-9399-a8a16ea8fe30)
+![Screen Shot 1](https://github.com/user-attachments/assets/5483b8cf-ddcb-4e44-851a-6e268794843c)
 
 
 
