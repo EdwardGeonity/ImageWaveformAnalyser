@@ -43,7 +43,7 @@ Install dependencies:
 
 ```bash
 pip install Pillow numpy matplotlib
-
+```
 
 🚀 How to Run
 
